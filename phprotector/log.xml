@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href=".log_style.xsl"?>
+<!--PhProtector logs-->
+<logs>
+ <log>
+  <date>12-09-2016 18:05:33</date>
+  <ip>127.0.0.1</ip>
+  <hostname>localhost</hostname>
+  <browser>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</browser>
+  <request>/vairolatti/site/productos.php?buscar=1-++Materiales+Apicolas+%28maderas%29%20union%20select%20*%20from%20portfolio</request>
+  <score>3</score>
+  <referer>Unknown</referer>
+ </log>
+</logs>
